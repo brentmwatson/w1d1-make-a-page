@@ -7,8 +7,12 @@ header{
   top:0px
   margin: 0px auto;
 }
-body {
+main{
   background-color: #a3a3a3;
+  margin: 20px auto;
+}
+body {
+  margin: 10px;
 
 }
 h1 {
